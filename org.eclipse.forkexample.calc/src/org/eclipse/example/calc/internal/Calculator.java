@@ -39,6 +39,8 @@ public class Calculator {
 		
 		// pannisoft
 		
+		// pannisoft Commit and Push
+		
 		new Equals();
 		new Minus();
 		new Plus();
