@@ -36,6 +36,9 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		
+		// pannisoft
+		
 		new Equals();
 		new Minus();
 		new Plus();
