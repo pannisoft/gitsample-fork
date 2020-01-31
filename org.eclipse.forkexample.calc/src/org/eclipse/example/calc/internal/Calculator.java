@@ -41,6 +41,8 @@ public class Calculator {
 		
 		// pannisoft Commit and Push
 		
+		// noch einer
+		
 		new Equals();
 		new Minus();
 		new Plus();
